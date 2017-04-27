@@ -1,0 +1,158 @@
+*
+{
+margin: 0px;
+padding: 0px;
+
+}
+
+body {
+	background-color:#ffffff;
+}
+
+header {
+	width:1590px;
+	height:705px;
+	}
+
+main {
+	width:1590px;
+}
+
+footer {
+	width:1590px;
+	height:35px;
+	padding-top:15px;
+	background-color:#141518;
+	text-align:center;
+}
+
+footer>p {
+	font-family: georgia, serif; 
+	font-size: 20px;
+	color:#717172;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.cloud {
+	position:absolute;
+	top:138px;
+	width:100%;
+	z-index:-200;
+	
+}
+
+.primary {
+	width:1590px;
+	margin:0 auto;
+}
+
+.bannertop {
+	width:1195px;
+	height:705px;
+	float:left;
+	border: 1px solid;
+	background-image:url(img/perfume6.png);
+	background-size: 100%;
+	/*background-color: #c7b39b;*/
+}
+
+.menutop {
+	width:391px;
+	height:705px;
+	float:left;
+	border: 1px solid;
+}
+
+.scroll{
+	display:flex;
+	width:1590px;
+	height:445px;
+	justify-content:space-between;
+	border: 1px solid;
+}
+
+.element {
+	width:300px;
+	border: 1px solid;
+	
+}
+
+.element>img {
+	height:200px;
+	display:block;
+	margin:0 auto;
+}
+
+.middle {
+	width:1530px;
+	height:660px;
+	padding: 30px;
+	border: 1px solid;
+}
+
+.intomiddle {
+	width:365px;
+	height:600px;
+	float:right;
+	margin-right:60px;
+	border: 1px solid;
+	
+}
+
+
+.intomiddle>img {
+	display:block;
+	height:250px;
+	margin:0 auto;
+}
+
+.subscription {
+	width:1590px;
+	height:475px;
+	border: 1px solid;
+}
+
+.info {
+	display:flex;
+	width:990px;
+	height:340px;
+	justify-content:space-between;
+	background-color: #2b2c30;
+	padding-top:45px;
+	padding-left:300px;
+	padding-right:300px;
+	padding-bottom:15px;
+
+}
+
+.list {
+	width:130px;
+	font-size: 18px;
+	color:#ffffff;
+}
+
+.list ul li {
+	display:block;
+	margin-top:10px;
+	font-size: 15px;
+	color:#717172;
+}
+
+.list>p {
+
+}
+
+
+/*.menutop {
+	width: 50%;
+	font-size: 15px;
+	display: flex;
+	justify-content: space-around;
+	float: right;
+	margin-top: 20px;
+}
+*/
