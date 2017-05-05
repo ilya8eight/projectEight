@@ -26,7 +26,6 @@ section {
 
 section:nth-child(2) {
 	background: url("../img/BG.png") no-repeat bottom center;
-	border: 1px solid;
 }
 
 footer {
@@ -88,7 +87,6 @@ p {
 	width: 870px;
 	padding-top: 190px;
 	padding-bottom: 170px;
-	border: 1px solid;
 	
 }
 
@@ -96,7 +94,6 @@ p {
 	float: right;
 	width: 565px;
 	padding-top: 235px;
-	border: 1px solid;
 		
 }
 
@@ -145,7 +142,6 @@ p {
 	width:1195px;
 	height:705px;
 	float:left;
-	border: 1px solid;
 	background-image:url(img/perfume6.png);
 	background-size: 100%;
 	/*background-color: #c7b39b;*/
@@ -155,7 +151,6 @@ p {
 	width:391px;
 	height:705px;
 	float:left;
-	border: 1px solid;
 }
 
 .scroll{
@@ -163,12 +158,10 @@ p {
 	width:1590px;
 	height:445px;
 	justify-content:space-between;
-	border: 1px solid;
 }
 
 .element {
 	width:300px;
-	border: 1px solid;
 	
 }
 
@@ -176,7 +169,6 @@ p {
 	width:1530px;
 	height:660px;
 	padding: 30px;
-	border: 1px solid;
 }
 
 .intomiddle {
@@ -184,7 +176,6 @@ p {
 	height:600px;
 	float:right;
 	margin-right:60px;
-	border: 1px solid;
 	
 }
 
@@ -198,7 +189,6 @@ p {
 .subscription {
 	width:1590px;
 	height:475px;
-	border: 1px solid;
 }
 
 .info {
