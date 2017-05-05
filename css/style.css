@@ -11,7 +11,8 @@ body {
 
 header {
 	width:1440px;
-	height:810px;
+	height:610px;
+	padding-top: 200px;
 	background: url("../img/backgrHEADER.jpg") no-repeat bottom center;
 	}
 
@@ -66,12 +67,6 @@ p {
 	color:#8a8a8a;
 }
 
-img {
-	width:70px;
-	display:block;
-	margin:0 auto;
-}
-
 .text_center {
 	margin: 30px auto;
 	text-align: center;
@@ -93,13 +88,23 @@ img {
 	width: 870px;
 	padding-top: 190px;
 	padding-bottom: 170px;
+	border: 1px solid;
 	
 }
 
 .rightblock {
 	float: right;
 	width: 565px;
-	
+	padding-top: 235px;
+	border: 1px solid;
+		
+}
+
+.rightblock img {
+	height: 490px;
+	width: 565px;
+	display:block;
+	margin: 0 auto;
 }
 
 .inside {
@@ -118,6 +123,12 @@ img {
 	display: inline-block;
 	width: 340px;
 	margin: 0 8px;
+}
+
+.inline img {
+	width:70px;
+	display:block;
+	margin:0 auto;
 }
 
 .cloud {
